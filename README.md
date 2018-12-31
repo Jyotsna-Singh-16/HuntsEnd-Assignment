@@ -7,6 +7,6 @@ HuntsEnd official web page (www.huntsend.com).
 
 <h3>You will see the following page on the screen: </h3>
 1.<img src="https://github.com/Jyotsna-Singh-16/HuntsEnd-Assignment/blob/master/Sample.png" />
-2.<img src="" />
+2.<img src="https://github.com/Jyotsna-Singh-16/HuntsEnd-Assignment/blob/master/Sample2.png" />
 
 
