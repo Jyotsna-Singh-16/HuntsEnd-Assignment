@@ -1,0 +1,78 @@
+.jumbotron{
+    background: url(http://www.huntsend.com/wp-content/themes/huntsend/images/bg_header.jpg);
+    padding-top: 10px;
+    padding-bottom: 10px;
+ }
+
+ .logo{
+     position: relative;
+     left : 40%;
+ }
+
+ .navbar{
+     position: relative;
+     background-color: #161616;
+     border-right: 1px solid #3d3d3d;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     margin-top: -30px; 
+     margin-bottom: 0px;      
+}
+
+.navbar-default {
+    
+    border-color: transparent; 
+}
+
+.listClass{
+    padding-left: 10px;
+    background-color: #161616;
+    border-right: 2px solid #3d3d3d;   
+}
+
+.nav{
+    margin-left: 20%;
+    
+}
+
+#DivId ul li a {
+    text-decoration: none;
+    padding: .2em 1em .2em 0em;
+    color: #fff;
+    
+    background-color: #161616;
+    
+}
+
+
+
+.carousel-caption{
+    text-align: left;
+    font-size: 90px;
+    line-height: 60px;
+    font-weight: 800;
+    font-family: "Droid Serif";
+    color: rgb(255,255,255);
+    text-decoration: none;
+    background-color: transparent;
+    border-width: 0px;
+    border-color: rgb(255,214,88);
+    border-style: none;
+}
+
+.blinking{
+    animation:blinkingText 0.9s 1;
+}
+@keyframes blinkingText{
+    0%{     color: rgb(238, 224, 224);    }
+    49%{    color: transparent; opacity: 0.1 }
+    50%{    color: transparent; opacity: 0.1 }
+    99%{    color:transparent; opacity: 0.1 }
+    100%{   color: rgb(220, 223, 215);    }
+}
+
+
+
+
+
+
